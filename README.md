@@ -6,8 +6,8 @@ This is a tool which predicts if a patient has heart disease using a test datase
 ## via Jupyter Notebook
 This is the best and easiest way as literally everything is there and installed.
 
+## manual installation
+
 # TODO
 - literally every thing from the code
 - manual installation
-
-## manual installation
